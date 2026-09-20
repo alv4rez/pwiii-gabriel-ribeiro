@@ -1,12 +1,6 @@
 # pwiii-gabriel-ribeiro
-# 🚀 pwIII - Seu Nome
-
-### 📚 Programação Web III – Prof. Nome do Professor
+### 📚 Programação Web III com o Professor João Siles
 
 ---
-
-# 👋 Welcome!
-
-## [1 - Jogo da Velha em React](./jogo-tictactoe)
 
 ## [2 - Spring Boot](./estoquelivros)
