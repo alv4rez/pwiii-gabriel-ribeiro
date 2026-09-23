@@ -8,13 +8,11 @@
 
 ### 1. Gerar o projeto
 
-### 1. Gerar o projeto
-
 Todo projeto Spring Boot começa no [Spring Initializr](https://start.spring.io), um site que monta a estrutura inicial para você, sem precisar criar pastas e arquivos de configuração na mão.
 
 - **Project:** Maven, a ferramenta que baixa as bibliotecas e compila o projeto
 - **Language:** Java
-- **Spring Boot:** a versão estável mais recente (evite as que terminam em `SNAPSHOT` ou `M`, ainda em teste)
+- **Spring Boot:** a versão estável mais recente (evite as que terminam em `SNAPSHOT` ou `M`, ainda estão em teste)
 - **Group:** identificação da organização, no formato de domínio invertido (ex: `com.escola`)
 - **Artifact:** o nome do projeto (ex: `estoquelivros`)
 - **Java:** a mesma versão instalada no seu computador
